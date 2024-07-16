@@ -1,0 +1,28 @@
+{
+	"firstName":"John",
+	"lastName": "Smith",
+	"age":25,
+	"address":{
+	"streetAddress":"21 2nd Street",
+	"city":"New York"
+	},
+	"phoneNumbers":"098 879 789",
+	"firstName":"John",
+	"lastName": "Smith",
+	"age":25,
+	"address":{
+	"streetAddress":"21 2nd Street",
+	"city":"New York"
+	},
+	"phoneNumbers":"098 879 789"
+,
+"firstName":"John",
+	"lastName": "Smith",
+	"age":25,
+	"address":{
+	"streetAddress":"21 2nd Street",
+	"city":"New York"
+	},
+	"phoneNumbers":"098 879 789"
+
+}
